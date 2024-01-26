@@ -8,6 +8,8 @@
 
 - 🌱 I’m currently learning **React js , Redux Hooks, MongoDB, RestfullApi**
 
+- 🎓 I’m learned web development at **Meraki Academy**
+
 - 💬 Ask me about **MERN**
 
 - ⚡ Fun fact **I am Funny**
