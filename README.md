@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Smart Shopper**
 
-- 🌱 I’m currently learning **React js , Redux Hooks, MongoDB, RestfullApi**
+- 🌱 I’m currently learning **React js , Redux , MongoDB, RestfullApi**
 
 - 🎓 I learned web development at **Meraki Academy**
 
