@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/p2eovClgAMoAAAAd/designer-coffee-break.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raedalfakhoury&label=Profile%20views&color=0e75b6&style=flat" alt="raedalfakhoury" /> </p>
 
-- 🔭 I’m currently working on **Smart Shopper**
+- 🔭 I’m currently working on **Social Media Platform**
 
 - 🌱 I’m currently learning **React js , Redux , MongoDB, RestfullApi**
 
